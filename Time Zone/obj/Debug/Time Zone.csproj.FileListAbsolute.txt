@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\bin\Debug\Time Zone.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\bin\Debug\Time Zone.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\bin\Debug\Time Zone.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\obj\Debug\Time Zone.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\obj\Debug\Time_Zone.Form1.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\obj\Debug\Time_Zone.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\obj\Debug\Time Zone.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\obj\Debug\Time Zone.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\obj\Debug\Time Zone.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Time Zone\Time Zone\obj\Debug\Time Zone.pdb
